@@ -139,3 +139,7 @@ height: 75px !important;
 ::-webkit-scrollbar-thumb:hover {
   background: #b30000; 
 }
+
+.noDisplay:{
+  display: none;
+}
